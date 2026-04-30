@@ -1,6 +1,6 @@
 # 🤖 AI Coding Assistant
 
-An advanced AI-powered coding assistant built with **Streamlit**, **Groq LLaMA 3**, and **Python** to help developers and learners generate, explain, debug, and understand code faster with a modern futuristic UI.
+An advanced AI-powered coding assistant built with Streamlit, Groq LLaMA 3, and Python to help developers and learners generate, explain, debug, and understand code faster with a modern futuristic UI.
 
 ---
 
@@ -36,6 +36,15 @@ An advanced AI-powered coding assistant built with **Streamlit**, **Groq LLaMA 3
 * 🤖 Groq API (LLaMA 3)
 * 🎨 HTML + CSS Custom Styling
 * 🔐 dotenv for environment variables
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the Live App Here:**
+[AI Coding Assistant Live Demo](https://aicodingbot-m3q8z3ozplnjhyar3x3rhf.streamlit.app/)
+
+> Replace the above link with your actual deployed Streamlit app URL.
 
 ---
 
