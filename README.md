@@ -59,7 +59,7 @@ ai-coding-bot/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-coding-bot.git
+git clone https://github.com/Soumyo2005/ai-coding-bot.git
 cd ai-coding-bot
 ```
 
